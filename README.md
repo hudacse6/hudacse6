@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently working as a Head of Business Development at Devxhub.<br>👯 I’m looking to collaborate on big high-scale long-term projects individually as well as a team player.<br>🤝 I’m looking for working with great products. Also if you're looking for a great team I can help you to build your dream team too.<br>🌱 I’m currently learning DevOps, ML/AI, and Security.
+🔭  I’m currently working as a Head of Business Development at Devxhub.<br>👯 I’m looking to collaborate on high-scale, complex & long-term projects.<br>🤝 I’m looking for working with great products. Also if you're looking for a great team I can help you to build your dream team too.<br>🌱 I’m currently learning DevOps, ML/AI, and Security.
 
 
 ## 🌐 Socials:
