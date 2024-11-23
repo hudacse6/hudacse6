@@ -1,8 +1,8 @@
 # About Me:
-💼 Current Role: Head of Business Development at Devxhub.
-🤝 Collaboration Interests: Seeking opportunities to collaborate on high-scale, complex, and long-term projects.
-🌐 Professional Network: If you're searching for an exceptional team or individual, I can help you find the right fit.
-🚀 Exploration: Actively exploring advancements in Machine Learning (ML), Artificial Intelligence (AI), and ChatGPT projects.
+💼 Current Role: Head of Business Development at Devxhub. <br>
+🤝 Collaboration Interests: Seeking opportunities to collaborate on high-scale, complex, and long-term projects. <br>
+🌐 Professional Network: If you're searching for an exceptional team or individual, I can help you find the right fit. <br>
+🚀 Exploration: Actively exploring advancements in Machine Learning (ML), Artificial Intelligence (AI), and ChatGPT projects. <br>
 
 ✨ Let’s Connect, Collaborate, & Innovate!
 
