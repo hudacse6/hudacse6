@@ -1,5 +1,5 @@
 # Your Trusted go-to Team Augmentation and Software Development Partner
-A team of expert developers, software engineers, quality assurance specialists, and managers are ready to join your team and achieve growth together. #
+A team of expert developers, software engineers, quality assurance specialists, and managers are ready to join your team and achieve growth together.
 
 # About Me:
 🤝 **Collaboration Interests**: Seeking Full Stack Development opportunities to collaborate on high-scale, complex, and long-term projects. <br>
