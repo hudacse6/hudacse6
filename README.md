@@ -1,3 +1,6 @@
+# Your Trusted go-to Team Augmentation and Software Development Partner
+A team of expert developers, software engineers, quality assurance specialists, and managers are ready to join your team and achieve growth together. #
+
 # About Me:
 🤝 **Collaboration Interests**: Seeking Full Stack Development opportunities to collaborate on high-scale, complex, and long-term projects. <br>
 🌐 **Professional Network**: If you're searching for an exceptional team or individual, I can help you find the right fit. <br>
@@ -22,8 +25,21 @@
 ✓ MVP, SAAS, End-to-End Design & Development <br>
 ✓ Improvement and Customisation of existing projects <br>
 ✓ AI/ML Software Development & Integration <br>
-✓ OpenAI API & DeepSeek API Implementation <br>
+✓ OpenAI API & DeepSeek API Implementation <be>
 
+
+🎯 **TECHNOLOGIES & FRAMEWORKS**:
+
+✓ Stacks: MERN Stack, Django Stack, Flutter-Stack, .Net Stack <br>
+✓ Frontend: React/Next.js, Vue/Nuxt.js, Angular, Bootstrap, Tailwind CSS, etc. <br>
+✓ Backend: Laravel, Django, Nodejs, ASP.Net, Java <br>
+✓ Mobile App: Flutter, React-Native | Android & iOS <br>
+✓ AI/ML: ChatGPT and DeepSeek Integration & Implementation <br>
+✓ APIs: Restful, GraphQL, OpenAI API, DeepSeek API <br>
+✓ Databases: MS SQL, MySQL, PostgreSQL, MongoDB, etc. <br>
+✓ DevOps: AWS, Digital Ocean, Google Cloud, Azure, Linux <br>
+✓ Tools/Automation: Github, CI/CD, Docker <br>
+✓ Other: Pixel-Perfect Design, Clean Code, Optimizing Performance, Hardened Security <br>
 
 ✨ Let’s Connect, Collaborate, & Innovate!
 
