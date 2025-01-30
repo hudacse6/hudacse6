@@ -3,26 +3,26 @@
 🌐 **Professional Network**: If you're searching for an exceptional team or individual, I can help you find the right fit. <br>
 🚀 **Exploration**: Actively exploring advancements in Machine Learning (ML), Artificial Intelligence (AI), and OpenAI API & ChatGPT related projects. <be>
 
-**❓Why Work With Me **
+❓**Why Work With Me**
 
-🥇 10+ Years of Extensive Experience
-🏆 Expertise You Can Trust
-✅ Scalable, Secure PSR Standard Code
-✅ Client-Centric Approach
-✅ End-to-end Development from architecture design to final deployment.
-✅ Daily & Weekly Report
-✅ Long-term support even after the project is completed.
-✅ Transparency 
+🥇 10+ Years of Extensive Experience <br>
+🏆 Expertise You Can Trust <br>
+✅ Scalable, Secure PSR Standard Code <br>
+✅ Client-Centric Approach <br>
+✅ End-to-end Development from architecture design to final deployment <br>
+✅ Daily & Weekly Report <br>
+✅ Long-term support even after the project is completed <br>
+✅ Transparency <br>
 
-** 🎯 SERVICES: **
+ 🎯 **SERVICES**:
 
-✓ Full Stack Development | UI, Web, Mobile App & Cloud Solutions
-✓ Mobile Application Development | Android & iOS
-✓ Custom & Enterprise Software Development
-✓ MVP, SAAS, End-to-End Design & Development
-✓ Improvement and Customisation of existing projects
-✓ AI/ML Software Development & Integration
-✓ OpenAI API & DeepSeek API Implementation
+✓ Full Stack Development | UI, Web, Mobile App & Cloud Solutions <br>
+✓ Mobile Application Development | Android & iOS <br>
+✓ Custom & Enterprise Software Development <br>
+✓ MVP, SAAS, End-to-End Design & Development <br>
+✓ Improvement and Customisation of existing projects <br>
+✓ AI/ML Software Development & Integration <br>
+✓ OpenAI API & DeepSeek API Implementation <br>
 
 
 ✨ Let’s Connect, Collaborate, & Innovate!
