@@ -1,7 +1,29 @@
 # About Me:
 🤝 **Collaboration Interests**: Seeking Full Stack Development opportunities to collaborate on high-scale, complex, and long-term projects. <br>
 🌐 **Professional Network**: If you're searching for an exceptional team or individual, I can help you find the right fit. <br>
-🚀 **Exploration**: Actively exploring advancements in Machine Learning (ML), Artificial Intelligence (AI), and OpenAI API & ChatGPT related projects. <br>
+🚀 **Exploration**: Actively exploring advancements in Machine Learning (ML), Artificial Intelligence (AI), and OpenAI API & ChatGPT related projects. <be>
+
+**❓Why Work With Me **
+
+🥇 10+ Years of Extensive Experience
+🏆 Expertise You Can Trust
+✅ Scalable, Secure PSR Standard Code
+✅ Client-Centric Approach
+✅ End-to-end Development from architecture design to final deployment.
+✅ Daily & Weekly Report
+✅ Long-term support even after the project is completed.
+✅ Transparency 
+
+** 🎯 SERVICES: **
+
+✓ Full Stack Development | UI, Web, Mobile App & Cloud Solutions
+✓ Mobile Application Development | Android & iOS
+✓ Custom & Enterprise Software Development
+✓ MVP, SAAS, End-to-End Design & Development
+✓ Improvement and Customisation of existing projects
+✓ AI/ML Software Development & Integration
+✓ OpenAI API & DeepSeek API Implementation
+
 
 ✨ Let’s Connect, Collaborate, & Innovate!
 
