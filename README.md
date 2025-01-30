@@ -1,7 +1,7 @@
 # About Me:
 🤝 **Collaboration Interests**: Seeking Full Stack Development opportunities to collaborate on high-scale, complex, and long-term projects. <br>
 🌐 **Professional Network**: If you're searching for an exceptional team or individual, I can help you find the right fit. <br>
-🚀 **Exploration**: Actively exploring advancements in Machine Learning (ML), Artificial Intelligence (AI), and AI/ChatGPT projects. <br>
+🚀 **Exploration**: Actively exploring advancements in Machine Learning (ML), Artificial Intelligence (AI), and OpenAI API & ChatGPT related projects. <br>
 
 ✨ Let’s Connect, Collaborate, & Innovate!
 
