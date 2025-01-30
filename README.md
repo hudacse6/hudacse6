@@ -5,7 +5,7 @@ A team of expert developers, software engineers, quality assurance specialists, 
 📚 **Education:** BSc in CSE, & ACM-ICPC Programmer. <br>
 🤝 **Collaboration Interests**: Seeking Full Stack Development opportunities to collaborate on high-scale, complex, and long-term projects. <br>
 🌐 **Professional Network**: If you're searching for an exceptional team or individual, I can help you find the right fit. <br>
-🚀 **Exploration**: Actively exploring advancements in Machine Learning (ML), Artificial Intelligence (AI), and OpenAI API & ChatGPT related projects. <be>
+🚀 **Exploration**: Actively exploring advancements in Machine Learning (ML), Artificial Intelligence (AI), and OpenAI API & ChatGPT related projects.  <br> <br>
 
 ❓**Why Work With Me**
 
