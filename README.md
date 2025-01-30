@@ -1,5 +1,5 @@
 # Your Trusted go-to Team Augmentation and Software Development Partner
-A team of expert developers, software engineers, quality assurance specialists, and managers are ready to join your team and achieve growth together.
+*A team of expert developers, software engineers, quality assurance specialists, and managers are ready to join your team and achieve growth together.*
 
 # About Me:
 📚 **Education:** BSc in CSE, & ACM-ICPC Programmer. <br>
