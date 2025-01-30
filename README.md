@@ -15,7 +15,7 @@ A team of expert developers, software engineers, quality assurance specialists, 
 ✅ Client-Centric Approach <br>
 ✅ End-to-end Development from architecture design to final deployment <br>
 ✅ Daily & Weekly Report <br>
-✅ Long-term support even after the project is completed <br>
+✅ Long-term support even after the project is completed <br><br>
 ✅ Transparency <br>
 
  🎯 **SERVICES**:
@@ -26,7 +26,7 @@ A team of expert developers, software engineers, quality assurance specialists, 
 ✓ MVP, SAAS, End-to-End Design & Development <br>
 ✓ Improvement and Customisation of existing projects <br>
 ✓ AI/ML Software Development & Integration <br>
-✓ OpenAI API & DeepSeek API Implementation <be>
+✓ OpenAI API & DeepSeek API Implementation <be><br>
 
 
 🎯 **TECHNOLOGIES & FRAMEWORKS**:
