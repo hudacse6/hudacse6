@@ -48,3 +48,9 @@
 ## 🌐 Professional Networking:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hudacse6) 
 
+## 🌐 Contact info:
+O: hadis@devxhub.com
+P: hudacse6@gmail.com
+P: +880 1745969697
+www.devxhub.com 
+
